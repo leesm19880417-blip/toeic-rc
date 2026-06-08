@@ -11,10 +11,10 @@
      기기 내 저장(localStorage)만 동작합니다. (앱은 그래도 잘 작동)
    ============================================================ */
 window.FIREBASE_CONFIG = {
-  apiKey:            "여기에-apiKey",
-  authDomain:        "여기에-프로젝트.firebaseapp.com",
-  projectId:         "여기에-projectId",
-  storageBucket:     "여기에-프로젝트.appspot.com",
-  messagingSenderId: "여기에-senderId",
-  appId:             "여기에-appId"
+  apiKey:            "AIzaSyCevtDr_qJCGuZxh_3fyn7AyiFvbP80GFY",
+  authDomain:        "toeic-rc.firebaseapp.com",
+  projectId:         "toeic-rc",
+  storageBucket:     "toeic-rc.firebasestorage.app",
+  messagingSenderId: "446365689274",
+  appId:             "1:446365689274:web:47c1277d3140e4fefce983"
 };
